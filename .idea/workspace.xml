@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Excercise2.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cba162b-7401-408b-8bb3-c50a3d0e6de9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PE-3/PE-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-4/PE4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/PE-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/main/java/com/stackroute/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/main/java/com/stackroute/CountString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/main/java/com/stackroute/frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE-5/src/test/java/com/stackroute/TesstArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/artifacts/Excercise1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/Excercise1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/src/main/java/com/stackroute/MyWebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/src/main/java/com/stackroute/StackrouteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/src/main/java/com/stackroute/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/src/main/java/com/stackroute/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise1/src/main/webapp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Excercise2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/stackroute/StackrouteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/stackroute/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/stackroute/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Excercise2.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Excercise2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Excercise2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/Exe2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exe2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/artifacts/SpringMvcDemo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/SpringMvcDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/XML1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/src/main/Resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/src/main/java/com/stackroute/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/src/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/src/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XML tasks Spring/XML1/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lite/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lite/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lite/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lite/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/src/main/java/com/stackroute/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/src/main/java/com/stackroute/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/DependencyInjection/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/parallel to videos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parallel to videos/InversionControl/springioc.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0TxLujPgzz19lRAIGHUQs4Q6f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/Excercise2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.stackroute" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.tomcate">
+    <configuration name="Excercise2 [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Excercise2 [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Excercise2 [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/target/Excercise2" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcate" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/target/Excercise2" />
+      <option name="DOC_MODULE_ROOT" value="" />
+      <option name="CONTEXT_PATH" value="/" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <option name="CLASS_NAME" value="" />
+      <option name="DEBUG" value="" />
+      <option name="DIGEST" value="" />
+      <option name="ROLE_NAME_COL" value="" />
+      <option name="USER_CRED_COL" value="" />
+      <option name="USER_NAME_COL" value="" />
+      <option name="USER_ROLE_TABLE" value="" />
+      <option name="USER_TABLE" value="" />
+      <option name="JNDI_GLOBAL" value="" />
+      <option name="JNDI_NAME" value="" />
+      <option name="JNDI_TYPE" value="" />
+      <option name="DATA_SOURCE_NAME" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Excercise2.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Excercise2 [clean]" />
+      <item itemvalue="Maven.Excercise2 [compile]" />
+      <item itemvalue="Maven.Excercise2 [package]" />
+      <item itemvalue="Smart Tomcat.tomcate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.Excercise2 [package]" />
+        <item itemvalue="Maven.Excercise2 [compile]" />
+        <item itemvalue="Maven.Excercise2 [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cba162b-7401-408b-8bb3-c50a3d0e6de9" name="Default Changelist" comment="" />
+      <created>1570699758369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570699758369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
